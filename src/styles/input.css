@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css2?family=Carter+One&display=swap");
+/* added the Tailwind directives for each of my main CSS files */
+/* This injects Tailwind's base styles and any base styles registered by plugins. */
+/* This injects Tailwind's component classes and any component classes registered by plugins. */
+/* This injects Tailwind's utility classes and any utility classes registered by plugins. */
+/* here the carter one font is imported to the CSS file */
+@tailwind base; 
+@tailwind components;
+@tailwind utilities;
+
+
+

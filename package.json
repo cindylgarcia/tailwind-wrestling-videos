@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.0.24"
+  },
+  "dependencies": {
+    "flowbite": "^1.4.5"
+  }
+}
+// package.json file is a JSON file that exists in the root of a javascript/node project
+// holds metadata about the project and used for managing dependencies, scripts, versions, etc
